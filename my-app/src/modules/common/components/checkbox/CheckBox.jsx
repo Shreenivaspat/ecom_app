@@ -3,7 +3,7 @@ import React from 'react'
 const CheckBox = () => {
   return (
     <div>
-      CheckBokvxcvdfdf
+      CheckBokvxcvdfdffdssds
     </div>
   )
 }
